@@ -1,0 +1,18 @@
+/Users/Joost/Documents/Euler Project/problem45.cpp: In function 'BigInteger startvalue(BigInteger)':
+/Users/Joost/Documents/Euler Project/problem45.cpp:18: error: no match for 'operator<=' in '(n * n) <= x'
+/Users/Joost/Documents/Euler Project/problem45.cpp: In function 'double f(double, BigInteger)':
+/Users/Joost/Documents/Euler Project/problem45.cpp:25: error: no match for 'operator-' in '(y * y) - x'
+/Users/Joost/Documents/Euler Project/problem45.cpp: In function 'double bigSqrt(BigInteger)':
+/Users/Joost/Documents/Euler Project/problem45.cpp:33: error: cannot convert 'BigInteger' to 'double' in initialization
+/Users/Joost/Documents/Euler Project/problem45.cpp:34: error: no match for 'operator-' in '(xi * xi) - x'
+/Users/Joost/Documents/Euler Project/problem45.cpp:34: error: 'PRECISION' was not declared in this scope
+/Users/Joost/Documents/Euler Project/problem45.cpp: In function 'bool ispentagonal(BigInteger)':
+/Users/Joost/Documents/Euler Project/problem45.cpp:53: error: call of overloaded 'BigInteger(double&)' is ambiguous
+/Users/Joost/Documents/Euler Project/bigint/BigInteger.hh:62: note: candidates are: BigInteger::BigInteger(short int)
+/Users/Joost/Documents/Euler Project/bigint/BigInteger.hh:61: note:                 BigInteger::BigInteger(short unsigned int)
+/Users/Joost/Documents/Euler Project/bigint/BigInteger.hh:60: note:                 BigInteger::BigInteger(int)
+/Users/Joost/Documents/Euler Project/bigint/BigInteger.hh:59: note:                 BigInteger::BigInteger(unsigned int)
+/Users/Joost/Documents/Euler Project/bigint/BigInteger.hh:58: note:                 BigInteger::BigInteger(long int)
+/Users/Joost/Documents/Euler Project/bigint/BigInteger.hh:57: note:                 BigInteger::BigInteger(long unsigned int)
+/Users/Joost/Documents/Euler Project/bigint/BigInteger.hh:52: note:                 BigInteger::BigInteger(const BigUnsigned&)
+/Users/Joost/Documents/Euler Project/bigint/BigInteger.hh:35: note:                 BigInteger::BigInteger(const BigInteger&)

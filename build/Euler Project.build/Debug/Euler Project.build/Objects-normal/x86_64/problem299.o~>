@@ -1,0 +1,5 @@
+/Users/Joost/Documents/Euler Project/problem299.cpp: In function 'int main()':
+/Users/Joost/Documents/Euler Project/problem299.cpp:16: error: expected `;' before 'for'
+/Users/Joost/Documents/Euler Project/problem299.cpp:16: error: expected `;' before ')' token
+/Users/Joost/Documents/Euler Project/problem299.cpp:9: warning: unused variable 'c'
+/Users/Joost/Documents/Euler Project/problem299.cpp:9: warning: unused variable 'p'

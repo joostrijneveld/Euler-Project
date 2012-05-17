@@ -1,0 +1,170 @@
+TEuler Project
+v7
+r0
+t302017374.152751
+cCheck dependencies
+cCompileC "build/Euler Project.build/Release/Euler Project.build/Objects-normal/x86_64/main.o" "/Users/Joost/Documents/Euler Project/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Euler Project.build/Release/Euler Project.build/Objects-normal/i386/main.o" "/Users/Joost/Documents/Euler Project/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/x86_64/Euler Project" normal x86_64
+cLd "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/i386/Euler Project" normal i386
+cCompileC "build/Euler Project.build/Release/Euler Project.build/Objects-normal/ppc/main.o" "/Users/Joost/Documents/Euler Project/main.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/ppc/Euler Project" normal ppc
+cCreateUniversalBinary "/Users/Joost/Documents/Euler Project/build/Release/Euler Project" normal "x86_64 i386 ppc"
+cGenerateDSYMFile "/Users/Joost/Documents/Euler Project/build/Release/Euler Project.dSYM" "/Users/Joost/Documents/Euler Project/build/Release/Euler Project"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/i386/Euler Project
+t1280324572
+s9764
+
+N/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/i386/Euler Project.LinkFileList
+c000000004C5033DB0000000000000076
+t1280324571
+s118
+
+N/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/i386/main.o
+t1280324572
+s65808
+
+N/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/ppc/Euler Project
+t1280324573
+s9436
+
+N/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/ppc/Euler Project.LinkFileList
+c000000004C5033DB0000000000000075
+t1280324571
+s117
+
+N/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/ppc/main.o
+t1280324573
+s66332
+
+N/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/x86_64/Euler Project
+t1280324572
+s9928
+
+N/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/x86_64/Euler Project.LinkFileList
+c000000004C5033DB0000000000000078
+t1280324571
+s120
+
+N/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/x86_64/main.o
+t1280324572
+s66680
+
+N/Users/Joost/Documents/Euler Project/build/Release/Euler Project
+t1280324573
+s38108
+
+N/Users/Joost/Documents/Euler Project/build/Release/Euler Project.dSYM
+t1280324574
+s102
+
+N/Users/Joost/Documents/Euler Project/main.cpp
+c000000004C502B92000000000000008C
+t1280322450
+s140
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302017371#302017371#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC "build/Euler Project.build/Release/Euler Project.build/Objects-normal/i386/main.o" "/Users/Joost/Documents/Euler Project/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s302017371.746017
+e302017372.568967
+r1
+xCompileC
+xbuild/Euler Project.build/Release/Euler Project.build/Objects-normal/i386/main.o
+x/Users/Joost/Documents/Euler Project/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Joost/Documents/Euler Project/main.cpp302017371#302017372#0(0"0(0#0#45"/Users/Joost/Documents/Euler Project/main.cpp4300911832#1429"    cd "/Users/Joost/Documents/Euler Project"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Euler Project-generated-files.hmap" "-I/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Euler Project-own-target-headers.hmap" "-I/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Euler Project-all-target-headers.hmap" -iquote "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Euler Project-project-headers.hmap" "-F/Users/Joost/Documents/Euler Project/build/Release" "-I/Users/Joost/Documents/Euler Project/build/Release/include" "-I/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/DerivedSources/i386" "-I/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/DerivedSources" -c "/Users/Joost/Documents/Euler Project/main.cpp" -o "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/Euler Project.build/Release/Euler Project.build/Objects-normal/ppc/main.o" "/Users/Joost/Documents/Euler Project/main.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+s302017372.628925
+e302017373.731768
+r1
+xCompileC
+xbuild/Euler Project.build/Release/Euler Project.build/Objects-normal/ppc/main.o
+x/Users/Joost/Documents/Euler Project/main.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Joost/Documents/Euler Project/main.cpp302017372#302017373#0(0"0(0#0#45"/Users/Joost/Documents/Euler Project/main.cpp4300911832#1436"    cd "/Users/Joost/Documents/Euler Project"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Euler Project-generated-files.hmap" "-I/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Euler Project-own-target-headers.hmap" "-I/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Euler Project-all-target-headers.hmap" -iquote "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Euler Project-project-headers.hmap" "-F/Users/Joost/Documents/Euler Project/build/Release" "-I/Users/Joost/Documents/Euler Project/build/Release/include" "-I/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/DerivedSources/ppc" "-I/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/DerivedSources" -c "/Users/Joost/Documents/Euler Project/main.cpp" -o "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/ppc/main.o"0#
+
+CCompileC "build/Euler Project.build/Release/Euler Project.build/Objects-normal/x86_64/main.o" "/Users/Joost/Documents/Euler Project/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s302017371.744958
+e302017372.355701
+r1
+xCompileC
+xbuild/Euler Project.build/Release/Euler Project.build/Objects-normal/x86_64/main.o
+x/Users/Joost/Documents/Euler Project/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Joost/Documents/Euler Project/main.cpp302017371#302017372#0(0"0(0#0#45"/Users/Joost/Documents/Euler Project/main.cpp4300911832#1435"    cd "/Users/Joost/Documents/Euler Project"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Euler Project-generated-files.hmap" "-I/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Euler Project-own-target-headers.hmap" "-I/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Euler Project-all-target-headers.hmap" -iquote "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Euler Project-project-headers.hmap" "-F/Users/Joost/Documents/Euler Project/build/Release" "-I/Users/Joost/Documents/Euler Project/build/Release/include" "-I/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/DerivedSources/x86_64" "-I/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/DerivedSources" -c "/Users/Joost/Documents/Euler Project/main.cpp" -o "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/x86_64/main.o"0#
+
+CCreateUniversalBinary "/Users/Joost/Documents/Euler Project/build/Release/Euler Project" normal "x86_64 i386 ppc"
+s302017373.954848
+e302017373.999064
+r1
+xCreateUniversalBinary
+x/Users/Joost/Documents/Euler Project/build/Release/Euler Project
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@76"CreateUniversalBinary "build/Release/Euler Project" normal "x86_64 i386 ppc"302017373#302017373#0(0"0(0#0#52"/Users/Joost/Documents/Euler Project/x86_64 i386 ppc4300911832#529"    cd "/Users/Joost/Documents/Euler Project"    /usr/bin/lipo -create "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/x86_64/Euler Project" "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/i386/Euler Project" "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/ppc/Euler Project" -output "/Users/Joost/Documents/Euler Project/build/Release/Euler Project"0#
+
+CGenerateDSYMFile "/Users/Joost/Documents/Euler Project/build/Release/Euler Project.dSYM" "/Users/Joost/Documents/Euler Project/build/Release/Euler Project"
+s302017373.999268
+e302017374.152705
+r1
+xGenerateDSYMFile
+x/Users/Joost/Documents/Euler Project/build/Release/Euler Project.dSYM
+x/Users/Joost/Documents/Euler Project/build/Release/Euler Project
+lSLF07#2@81"GenerateDSYMFile "build/Release/Euler Project.dSYM" "build/Release/Euler Project"302017373#302017374#0(0"0(0#0#64"/Users/Joost/Documents/Euler Project/build/Release/Euler Project4300911832#220"    cd "/Users/Joost/Documents/Euler Project"    /Developer/usr/bin/dsymutil "/Users/Joost/Documents/Euler Project/build/Release/Euler Project" -o "/Users/Joost/Documents/Euler Project/build/Release/Euler Project.dSYM"0#
+
+CLd "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/i386/Euler Project" normal i386
+s302017372.569067
+e302017372.703875
+r1
+xLd
+x/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/i386/Euler Project
+xnormal
+xi386
+old: warning: directory '/Users/Joost/Documents/Euler Project/build/Release' following -L not found
+old: warning: directory '/Users/Joost/Documents/Euler Project/build/Release' following -F not found
+lSLF07#2@129"Link /Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/i386/Euler Project302017372#302017372#0(198"ld: warning: directory '/Users/Joost/Documents/Euler Project/build/Release' following -L not foundld: warning: directory '/Users/Joost/Documents/Euler Project/build/Release' following -F not found2(22@85"Directory '/Users/Joost/Documents/Euler Project/build/Release' following -L not found302017372#0#99#0(6@0"302017372#0#0#0#0#0"0(22@85"Directory '/Users/Joost/Documents/Euler Project/build/Release' following -F not found302017372#99#99#0(6@0"302017372#0#0#0#0#0"0(0#0#0"4300911832#586"    cd "/Users/Joost/Documents/Euler Project"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Joost/Documents/Euler Project/build/Release" "-F/Users/Joost/Documents/Euler Project/build/Release" -filelist "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/i386/Euler Project.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/i386/Euler Project"0#
+
+CLd "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/ppc/Euler Project" normal ppc
+s302017373.731933
+e302017373.954750
+r1
+xLd
+x/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/ppc/Euler Project
+xnormal
+xppc
+old: warning: directory '/Users/Joost/Documents/Euler Project/build/Release' following -L not found
+old: warning: directory '/Users/Joost/Documents/Euler Project/build/Release' following -F not found
+lSLF07#2@128"Link /Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/ppc/Euler Project302017373#302017373#0(198"ld: warning: directory '/Users/Joost/Documents/Euler Project/build/Release' following -L not foundld: warning: directory '/Users/Joost/Documents/Euler Project/build/Release' following -F not found2(22@85"Directory '/Users/Joost/Documents/Euler Project/build/Release' following -L not found302017373#0#99#0(6@0"302017373#0#0#0#0#0"0(22@85"Directory '/Users/Joost/Documents/Euler Project/build/Release' following -F not found302017373#99#99#0(6@0"302017373#0#0#0#0#0"0(0#0#0"4300911832#583"    cd "/Users/Joost/Documents/Euler Project"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Joost/Documents/Euler Project/build/Release" "-F/Users/Joost/Documents/Euler Project/build/Release" -filelist "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/ppc/Euler Project.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/ppc/Euler Project"0#
+
+CLd "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/x86_64/Euler Project" normal x86_64
+s302017372.355798
+e302017372.628827
+r1
+xLd
+x/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/x86_64/Euler Project
+xnormal
+xx86_64
+old: warning: directory '/Users/Joost/Documents/Euler Project/build/Release' following -L not found
+old: warning: directory '/Users/Joost/Documents/Euler Project/build/Release' following -F not found
+lSLF07#2@131"Link /Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/x86_64/Euler Project302017372#302017372#0(198"ld: warning: directory '/Users/Joost/Documents/Euler Project/build/Release' following -L not foundld: warning: directory '/Users/Joost/Documents/Euler Project/build/Release' following -F not found2(22@85"Directory '/Users/Joost/Documents/Euler Project/build/Release' following -L not found302017372#0#99#0(6@0"302017372#0#0#0#0#0"0(22@85"Directory '/Users/Joost/Documents/Euler Project/build/Release' following -F not found302017372#99#99#0(6@0"302017372#0#0#0#0#0"0(0#0#0"4300911832#592"    cd "/Users/Joost/Documents/Euler Project"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Joost/Documents/Euler Project/build/Release" "-F/Users/Joost/Documents/Euler Project/build/Release" -filelist "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/x86_64/Euler Project.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Release/Euler Project.build/Objects-normal/x86_64/Euler Project"0#
+

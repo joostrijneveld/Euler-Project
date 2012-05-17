@@ -1,0 +1,2 @@
+/Users/Joost/Documents/Euler Project/problem80.cpp: In function 'double aprox_via_Newton_Raphson(int)':
+/Users/Joost/Documents/Euler Project/problem80.cpp:33: error: 'PRECISION' was not declared in this scope

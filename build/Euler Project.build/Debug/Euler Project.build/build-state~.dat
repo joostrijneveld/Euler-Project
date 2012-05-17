@@ -1,0 +1,59 @@
+TEuler Project
+v7
+r0
+t302014501.764994
+cCheck dependencies
+cCompileC "build/Euler Project.build/Debug/Euler Project.build/Objects-normal/x86_64/main.o" "/Users/Joost/Documents/Euler Project/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Joost/Documents/Euler Project/build/Debug/Euler Project" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Users/Joost/Documents/Euler Project/build/Debug/Euler Project
+t1280321701
+s10576
+
+N/Users/Joost/Documents/Euler Project/build/Euler Project.build/Debug/Euler Project.build/Objects-normal/x86_64/Euler Project.LinkFileList
+c000000004C5028A40000000000000076
+t1280321700
+s118
+
+N/Users/Joost/Documents/Euler Project/build/Euler Project.build/Debug/Euler Project.build/Objects-normal/x86_64/main.o
+t1280321701
+s66976
+
+N/Users/Joost/Documents/Euler Project/main.cpp
+c000000004C502836000000000000008F
+t1280321590
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302014500#302014500#0(0"0(0#1#0"28992373579448432#0"0#
+
+CCompileC "build/Euler Project.build/Debug/Euler Project.build/Objects-normal/x86_64/main.o" "/Users/Joost/Documents/Euler Project/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s302014500.176387
+e302014501.050381
+r1
+xCompileC
+xbuild/Euler Project.build/Debug/Euler Project.build/Objects-normal/x86_64/main.o
+x/Users/Joost/Documents/Euler Project/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Joost/Documents/Euler Project/main.cpp302014500#302014501#0(0"0(0#0#45"/Users/Joost/Documents/Euler Project/main.cpp5705889669690254336#1399"    cd "/Users/Joost/Documents/Euler Project"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Debug/Euler Project.build/Euler Project-generated-files.hmap" "-I/Users/Joost/Documents/Euler Project/build/Euler Project.build/Debug/Euler Project.build/Euler Project-own-target-headers.hmap" "-I/Users/Joost/Documents/Euler Project/build/Euler Project.build/Debug/Euler Project.build/Euler Project-all-target-headers.hmap" -iquote "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Debug/Euler Project.build/Euler Project-project-headers.hmap" "-F/Users/Joost/Documents/Euler Project/build/Debug" "-I/Users/Joost/Documents/Euler Project/build/Debug/include" "-I/Users/Joost/Documents/Euler Project/build/Euler Project.build/Debug/Euler Project.build/DerivedSources/x86_64" "-I/Users/Joost/Documents/Euler Project/build/Euler Project.build/Debug/Euler Project.build/DerivedSources" -c "/Users/Joost/Documents/Euler Project/main.cpp" -o "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Debug/Euler Project.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Joost/Documents/Euler Project/build/Debug/Euler Project" normal x86_64
+s302014501.050499
+e302014501.764872
+r1
+xLd
+x/Users/Joost/Documents/Euler Project/build/Debug/Euler Project
+xnormal
+xx86_64
+lSLF07#2@67"Link /Users/Joost/Documents/Euler Project/build/Debug/Euler Project302014501#302014501#0(0"0(0#0#0"28429440806879332#522"    cd "/Users/Joost/Documents/Euler Project"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Joost/Documents/Euler Project/build/Debug" "-F/Users/Joost/Documents/Euler Project/build/Debug" -filelist "/Users/Joost/Documents/Euler Project/build/Euler Project.build/Debug/Euler Project.build/Objects-normal/x86_64/Euler Project.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Joost/Documents/Euler Project/build/Debug/Euler Project"0#
+

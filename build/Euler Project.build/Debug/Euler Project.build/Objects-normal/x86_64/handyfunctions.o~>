@@ -1,0 +1,7 @@
+/Users/Joost/Documents/Euler Project/handyfunctions.cpp: In function 'bool ispalindrome(int)':
+/Users/Joost/Documents/Euler Project/handyfunctions.cpp:7: error: 'string' was not declared in this scope
+/Users/Joost/Documents/Euler Project/handyfunctions.cpp:7: error: expected `;' before 'nstring'
+/Users/Joost/Documents/Euler Project/handyfunctions.cpp:8: error: 'stringstream' was not declared in this scope
+/Users/Joost/Documents/Euler Project/handyfunctions.cpp:8: error: expected `;' before 'stream'
+/Users/Joost/Documents/Euler Project/handyfunctions.cpp:9: error: 'stream' was not declared in this scope
+/Users/Joost/Documents/Euler Project/handyfunctions.cpp:10: error: 'nstring' was not declared in this scope
